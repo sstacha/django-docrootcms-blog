@@ -1,0 +1,6 @@
+Django
+django-docrootcms
+
+# requests
+# mysqlclient
+# django-import-export

@@ -1,0 +1,5 @@
+include LICENSE
+recursive-include docrootcms/static *
+recursive-include docrootcms/templates *
+recursive-include docrootcms/docroot *
+recursive-include docrootcms/container_scripts *
